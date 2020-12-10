@@ -34,7 +34,7 @@ The Imgfly plugin provides an easy and quick way to enable Imgfly to optimize yo
 
 
 = Author =
-* [Imgfly](https://imgfly.co)
+* [Philipp Tanlak](info@imgfly.co)
 
 
 == Changelog ==
